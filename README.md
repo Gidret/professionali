@@ -56,7 +56,7 @@
 
 ### 1. Клонирование репозитория и создание окружения
 ```bash
-git clone <url-репозитория>
+git clone https://github.com/Gidret/professionali.git
 cd neuro-operator-monitoring
 python -m venv venv
 
